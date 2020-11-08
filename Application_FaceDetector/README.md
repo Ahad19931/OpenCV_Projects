@@ -7,4 +7,5 @@ Note:
 	2) Pandas
  
  APPLICATION SCREENSHOT
- ![screenshot](https://user-images.githubusercontent.com/49030315/98472069-c1124600-21f0-11eb-94d5-2f29f8a7a7c1.png)
+![screenshot](https://user-images.githubusercontent.com/49030315/98472088-e737e600-21f0-11eb-949a-6a75993a4ed9.png)
+
